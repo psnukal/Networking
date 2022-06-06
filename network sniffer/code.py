@@ -1,6 +1,4 @@
-#PES1UG20CS315
-#CN group project 2
-#Network Sniffing
+#Network Sniffer
 
 
 import scapy.all as scapy
@@ -69,4 +67,5 @@ while True:
 
 
 #THANK YOU
-
+#MODULE AUTHOR
+#PURVIK S NUKAL
